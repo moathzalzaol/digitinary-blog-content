@@ -1,16 +1,18 @@
 ---
-title: 'Example Digitinary Blog Post'
-slug: 'example-digitinary-blog-post'
-author: 'Digitinary Team'
-publishedAt: '2026-09-10'
-excerpt: 'A draft example showing the Markdown and frontmatter format used by the Digitinary blog.'
-coverImage: '/blog-media/example-cover.svg'
+excerpt: A draft example showing the Markdown and frontmatter format used by the
+  Digitinary blog.
+publishedAt: 2026-09-10
+title: Example Digitinary Blog Post
+author: Digitinary Team
+coverImage: /blog-media/tree.png
+slug: example-digitinary-blog-post
+date: 2026-09-13
+status: draft
 tags:
-  - 'Digitinary'
-  - 'Fintech'
-status: 'draft'
-seoTitle: 'Example Digitinary Blog Post'
-seoDescription: 'A draft example for validating the Digitinary blog content workflow.'
+  - Digitinary
+  - Fintech
+seoTitle: Example Digitinary Blog Post
+seoDescription: A draft example for validating the Digitinary blog content workflow.
 ---
 
 This is a **draft example** created to validate the blog content workflow.

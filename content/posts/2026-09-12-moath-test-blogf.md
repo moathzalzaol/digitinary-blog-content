@@ -5,6 +5,8 @@ date: 2026-09-13
 excerpt: |
   Test 
 coverImage: /blog-media/tree.png
+tags:
+  - Test
 ---
 # Headers
 

@@ -1,8 +1,9 @@
 ---
 title: 'Testing the Digitinary Markdown Blog'
-author: 'Moath Al-Zaol'
+author: 'Malek Shehadeh'
 date: '2026-09-14'
 excerpt: 'A complete test article for validating Markdown rendering, navigation, formatting, and reading time on the Digitinary website.'
+coverImage: 'https://editing.services/blog/top-50-academic-blogs-you-should-be-reading'
 tags:
   - Testing
   - Markdown
